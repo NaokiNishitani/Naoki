@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(36, 36, 91);
+    background-color: rgb(255, 255, 255);
 }
 
 h1 {
@@ -7,12 +7,12 @@ h1 {
 }
 
 .art-area {
-    background-color: beige;
+    background-color: rgb(164, 164, 163);
     width: 1000px;
     height: 1000px;
 }
 .imagetype {
-    border: 4mm ridge rgba(251, 146, 255, 0.6);
+    border: 4mm ridge rgba(51, 119, 255, 0.6);
     width: 500px;
     height: 500px;
 }
