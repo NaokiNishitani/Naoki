@@ -38,9 +38,7 @@ p {
     background-image: url("/assets/cloudgif.gif");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1000px 1000px;
-    margin-left: auto;
-    margin-right: auto;
+    background-size: cover;
 }
 
 .right-content {
@@ -96,6 +94,24 @@ p {
 }
 
 .image-links2 {
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 200px;
+}
+
+.image-links3 {
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 200px;
+}
+
+.image-links4 {
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 200px;
+}
+
+.image-links5 {
     margin-left: 100px;
     margin-right: 100px;
     width: 200px;
