@@ -90,7 +90,7 @@ p {
     padding: 10px;
 }
 .image-links {
-    margin-top: 100px;
+    margin-top: 10px;
     margin-left: 100px;
     margin-right: 100px;
     width: 200px;
@@ -118,6 +118,13 @@ p {
     margin-left: 100px;
     margin-right: 100px;
     width: 200px;
+    justify-content: center;
+}
+
+.logo-container {
+    padding: 10px;
+    display:flex;
+    justify-content: center;
 }
 /* .imagetype {
     border: 0mm ridge rgba(51, 119, 255, 0.6);
